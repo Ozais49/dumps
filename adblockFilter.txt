@@ -1,0 +1,38 @@
+! 2022-11-20 https://www.onlinekhabar.com
+||www.onlinekhabar.com/wp-content/uploads/2022/11/SBE-300x200-ok-m.gif$image
+www.onlinekhabar.com###ok18-roadblock-wrap
+
+! 2023-09-20 https://merolagani.com
+merolagani.com###offer_modal
+merolagani.com##.in.modal-backdrop
+||images.merolagani.com//content/bigyapan/*$image
+||merolagani.com/Scripts/advertisementHitCounter.js$script
+||merolagani.com/Scripts/WelcomeAdvHitCount.js.js$script
+merolagani.com##body:remove-class(modal-open)
+
+! 2023-09-21 https://www.onlinekhabar.com
+www.onlinekhabar.com##section.ok-full-widht-adv
+www.onlinekhabar.com##.okam-each-ad
+!www.onlinekhabar.com##.okam-device-desktop.home-mukhya-right.okam-ad-position-wrap
+!www.onlinekhabar.com##.ok-sticky-sidebar > .ok-sidebar-ad
+
+! 2024-01-16 https://www.onlinekhabar.com
+www.onlinekhabar.com##div.okam-device-mobile-desktop.single-inbetween-stories.okam-ad-position-wrap
+
+! 2024-05-19 https://www.onlinekhabar.com
+www.onlinekhabar.com##.ok18-single-post-content-wrap > div.okam-device-desktop.single-inbetween-stories.okam-ad-position-wrap
+
+! Aug 5, 2024 https://nepsealpha.com
+nepsealpha.com##.text-bold.card-body
+nepsealpha.com##.border-danger.border.text-center.justify-content-center.d-flex.card
+
+! Oct 22, 2024 https://www.setopati.com
+www.setopati.com###modalbox-banner > .modal_content > .imagebox
+www.setopati.com##.mast-head.col-md-12
+www.setopati.com##.container > div.desktop-bigyaapan-only.section > .container > .row > .col-md-12.full-bigyaapan
+www.setopati.com##div.desktop-bigyaapan-only.bigyaapan-item
+www.setopati.com##.col-md-12.full-bigyaapan
+www.setopati.com##.desktop-jacket-bigyaapan.modalbox
+www.setopati.com##div.insert-ad
+www.setopati.com##div.insert-ad > .desktop-bigyaapan-only.items
+
